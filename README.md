@@ -1,4 +1,4 @@
-# :school: CS-GY6513_Big-Data :student:
+## :school: CS-GY6513_Big-Data :student: ##
 
 ##### Introduction: Big Data requires the storage, organization, and processing of data at a scale and efficiency that go well beyond the capabilities of conventional information technologies.
 
